@@ -1,4 +1,4 @@
-# Door-Automation-with-NodeMCU-ESP8266-v0.1
+# Door-Automation-with-NodeMCU-ESP8266
 
 Bu projede NodeMCU ESP8266 ile kapı otomasyonu yapacağım. Proje geliştirme aşamasındadır.
 
